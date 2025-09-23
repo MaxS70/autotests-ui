@@ -1,4 +1,4 @@
-Описание команд при создании локального репозитария и отправке на Githab
+Описание команд при создании локального репозитария и отправке на github
 Макс@LAPTOP-TEB88LOV MINGW64 /d/МОИ ДОКУМЕНТЫ/РАБОТА 2025/ОБУЧЕНИЕ АВТОТЕСТ/autotests-ui
 $ git status
 fatal: not a git repository (or any of the parent directories): .git
